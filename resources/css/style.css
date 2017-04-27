@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  color: white;
+}
+
+h2.download{
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+  text-decoration: underline;
+}
+h2.travel{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+h3.copyright{
+  color: grey;
+  text-align: right;
+}
+.remember{
+  font-size: 21px;
+  color:grey;
+}
